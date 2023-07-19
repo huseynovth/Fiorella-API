@@ -1,0 +1,15 @@
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\bin\Debug\net6.0\Fiorella.Aplication.deps.json
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\bin\Debug\net6.0\Fiorella.Aplication.dll
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\bin\Debug\net6.0\Fiorella.Aplication.pdb
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\bin\Debug\net6.0\Fiorella.Domain.dll
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\bin\Debug\net6.0\Fiorella.Domain.pdb
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\Fiorella.Aplication.csproj.AssemblyReference.cache
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\Fiorella.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\Fiorella.Aplication.AssemblyInfoInputs.cache
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\Fiorella.Aplication.AssemblyInfo.cs
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\Fiorella.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\Fiorella.Aplication.csproj.CopyComplete
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\Fiorella.Aplication.dll
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\refint\Fiorella.Aplication.dll
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\Fiorella.Aplication.pdb
+C:\Users\shams\OneDrive\Desktop\Fiorella\src\Core\Aplication\obj\Debug\net6.0\ref\Fiorella.Aplication.dll
