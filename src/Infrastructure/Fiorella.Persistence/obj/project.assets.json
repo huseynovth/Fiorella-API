@@ -742,7 +742,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Fiorella.Domain": "1.0.0"
+          "Fiorella.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.20"
         },
         "compile": {
           "bin/placeholder/Fiorella.Aplication.dll": {}
