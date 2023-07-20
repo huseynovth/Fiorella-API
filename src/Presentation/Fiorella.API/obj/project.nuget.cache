@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GQ8ivDAM6Udafi42fllLiBEDViZnXb+vGmfqSPQfFfwC2mqLGELRCjfZH5zrp9CDSBOCO+J05huY2JfyvSy+tg==",
+  "dgSpecHash": "q5PJS8xbLi9nZwg12b8XfAh+sNxLRhfsD9clKW9ZqsqT41A+ougqnVibJSM5U5VjAKNVwsp9PWGhvmfw3dwPcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

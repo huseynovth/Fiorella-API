@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xJlW/svyeja3XNUmaginhv1XOiTTIQnI0TuqYqnVwcJ0NKcCVCRc24GQf7EhoKYu0cNzWTFeHg0tu3mh1LmtDQ==",
+  "dgSpecHash": "0hYPNpi9+W4Qa+wTxXNc447wHxUa8vDd1QqGo8uRP3tLJba8otsynupusVTJ+hTaM7SewjvmS0uwRZok5QEo2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.20\\microsoft.entityframeworkcore.abstractions.6.0.20.nupkg.sha512",

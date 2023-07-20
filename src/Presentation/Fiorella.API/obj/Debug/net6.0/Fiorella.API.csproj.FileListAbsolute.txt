@@ -146,3 +146,5 @@ C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\obj\Debug\net
 C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.pdb
 C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.genruntimeconfig.cache
 C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\obj\Debug\net6.0\ref\Fiorella.API.dll
+C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
