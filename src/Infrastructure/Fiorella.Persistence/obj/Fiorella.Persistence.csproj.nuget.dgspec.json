@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj": {}
+    "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Aplication\\Fiorella.Aplication.csproj": {
+    "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\Fiorella.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
         "projectName": "Fiorella.Aplication",
-        "projectPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
-        "packagesPath": "C:\\Users\\shams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Aplication\\obj\\",
+        "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
-                "projectPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj"
+              "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
+                "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj"
               }
             }
           }
@@ -45,6 +45,12 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.20, )"
             }
@@ -65,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
+    "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
         "projectName": "Fiorella.Domain",
-        "projectPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
-        "packagesPath": "C:\\Users\\shams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Fiorella.Domain\\obj\\",
+        "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,6 +110,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -120,21 +134,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj": {
+    "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj",
         "projectName": "Fiorella.Persistence",
-        "projectPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj",
-        "packagesPath": "C:\\Users\\shams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Infrastructure\\Fiorella.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj",
+        "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Infrastructure\\Fiorella.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -148,8 +162,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Aplication\\Fiorella.Aplication.csproj": {
-                "projectPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Core\\Aplication\\Fiorella.Aplication.csproj"
+              "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\Fiorella.Aplication.csproj": {
+                "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\Fiorella.Aplication.csproj"
               }
             }
           }
@@ -171,6 +185,12 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
             }
           },
           "imports": [
@@ -189,7 +209,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

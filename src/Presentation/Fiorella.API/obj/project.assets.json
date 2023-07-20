@@ -40,12 +40,12 @@
         },
         "compile": {
           "ref/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtimeTargets": {
@@ -471,12 +471,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -548,12 +548,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "frameworkReferences": [
@@ -567,12 +567,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -580,12 +580,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "frameworkReferences": [
@@ -2279,19 +2279,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shams\\.nuget\\packages\\": {}
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
+      "projectUniqueName": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
       "projectName": "Fiorella.API",
-      "projectPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
-      "packagesPath": "C:\\Users\\shams\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Presentation\\Fiorella.API\\obj\\",
+      "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
+      "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Presentation\\Fiorella.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2305,8 +2305,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj": {
-              "projectPath": "C:\\Users\\shams\\OneDrive\\Desktop\\Fiorella\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj"
+            "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj": {
+              "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj"
             }
           }
         }
@@ -2351,7 +2351,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
