@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 
 namespace Fiorella.Persistence.Implementations.Repositories;
 
-internal class ReadRepository<T> : IReadRepository<T> where T : BaseEntity, new()
+public class ReadRepository<T> : ICategoryReadRepository<T> where T : BaseEntity, new()
 {
     private readonly AppDbContext _context;
     public DbSet<T> Table => _context.Set<T>();
