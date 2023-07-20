@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "q5PJS8xbLi9nZwg12b8XfAh+sNxLRhfsD9clKW9ZqsqT41A+ougqnVibJSM5U5VjAKNVwsp9PWGhvmfw3dwPcA==",
+  "dgSpecHash": "8Nay7TRoZFIx6/CKuLVZWJrqk6M5YcR08T5D5/yH2yYScUKrNwa1R2mCq//aljBYqTE8FtuxhQWfRsUgykrNwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",

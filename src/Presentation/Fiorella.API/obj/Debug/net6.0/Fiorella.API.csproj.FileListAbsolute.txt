@@ -148,3 +148,5 @@ C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\obj\Debug\net
 C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\obj\Debug\net6.0\ref\Fiorella.API.dll
 C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\WINDOWS\Desktop\FiorellaAPI\src\Presentation\Fiorella.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
