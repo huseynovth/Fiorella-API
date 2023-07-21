@@ -4,7 +4,7 @@ using Fiorella.Persistence.Contexts;
 
 namespace Fiorella.Persistence.Implementations.Repositories;
 
-public class CategoryWriteRepository : WriteRepository<Category>, ICategoryWrriteRepository
+public class CategoryWriteRepository : WriteRepository<Category>, ICategoryWriteRepository
 {
     public CategoryWriteRepository(AppDbContext context) : base(context)
     {

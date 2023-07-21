@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8Nay7TRoZFIx6/CKuLVZWJrqk6M5YcR08T5D5/yH2yYScUKrNwa1R2mCq//aljBYqTE8FtuxhQWfRsUgykrNwQ==",
+  "dgSpecHash": "n7TYhR9c+6cGDLcacs+gZ3qRvXkhzZz0JsdORLjwKXQAPgZZ6vSTBhZ56RUg7KdRwj6prepKGX1AVuc5rZbQ7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WINDOWS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
