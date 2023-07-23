@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {}
+    "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
+    "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
         "projectName": "Fiorella.Domain",
-        "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
+        "projectPath": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
         "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\obj\\",
+        "outputPath": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",

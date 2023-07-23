@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qRHTLIb35yrM7Dzbrb/Cjl/ZbshhC82FLx0nn515ueuNU6AYAIf66fLxPJpvKdiXe84nq01bDKugF9NgruExXA==",
+  "dgSpecHash": "ysKkYfrJ5bEMyIke0/hE2f83HOY2yovSEBP9+iG9slAScxey6sYFLVBTD+h9KvPBDGRCs1az9YkU9cDs4qU/1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
+  "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WINDOWS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",

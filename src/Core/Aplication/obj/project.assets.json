@@ -841,11 +841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
+      "projectUniqueName": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
       "projectName": "Fiorella.Aplication",
-      "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
+      "projectPath": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Aplication\\Fiorella.Aplication.csproj",
       "packagesPath": "C:\\Users\\WINDOWS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Aplication\\obj\\",
+      "outputPath": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Aplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -862,8 +862,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
-              "projectPath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj"
+            "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj": {
+              "projectPath": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj"
             }
           }
         }

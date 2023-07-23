@@ -3,6 +3,8 @@ using Fiorella.Aplication.Abstraction.Repository;
 using Fiorella.Aplication.Abstraction.Services;
 using Fiorella.Aplication.DTOs.CategoryDTOs;
 using Fiorella.Domain.Entites;
+using Fiorella.Persistence.Exceptions;
+using Microsoft.EntityFrameworkCore;
 
 namespace Fiorella.Persistence.Implementations.Services;
 
@@ -31,9 +33,11 @@ public class CategoryService : ICategoryService
 
     }
 
-    public Task<List<CategoryGetDto>> GetAllAsync()
+    public async Task<List<CategoryGetDto>> GetAllAsync()
     {
-        throw new NotImplementedException();
+        var categories=await _readRepository.GetAll().ToListAsync();
+        List<CategoryGetDto> list = _mapper.Map<List<CategoryGetDto>>(categories);
+        return list;
     }
 
     public Task<CategoryGetDto> GetByIdAsync(Guid id)
@@ -41,8 +45,10 @@ public class CategoryService : ICategoryService
         throw new NotImplementedException();
     }
 
-    public Task<CategoryGetDto> GetByIdAsync(int id)
+    public async Task<CategoryGetDto> GetByIdAsync(int id)  
     {
-        throw new NotImplementedException();
+        Category? categoryDb = await _readRepository.GetByIdAysnc(id);
+        if (categoryDb is null) throw new NotFoundException("Category  not found!!!");
+        return _mapper.Map<CategoryGetDto>(categoryDb);  
     }
 }

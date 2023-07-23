@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hlO7uhKsIlShURCIq3bbZHSYZkTgJCct7Czyu4kwyAiaYHF8PZvlkDIRsA8rfiNEuyRtPS/zDag3vS9pyJSdQ==",
+  "dgSpecHash": "jlV6GE0nT2XQ24tMRM0T8iz+8SWKYl4vYBtusmnYK80Vc6g9xECWXMc/3hD8bG99jhxv69z8WlVECQ1k9vaXFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\FiorellaAPI\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Infrastructure\\Fiorella.Persistence\\Fiorella.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WINDOWS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
