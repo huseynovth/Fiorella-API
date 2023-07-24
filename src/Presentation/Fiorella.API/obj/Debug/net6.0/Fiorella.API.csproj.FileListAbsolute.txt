@@ -229,3 +229,5 @@ C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\ne
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.pdb
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.genruntimeconfig.cache
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\ref\Fiorella.API.dll
+C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.MvcApplicationPartsAssemblyInfo.cs
