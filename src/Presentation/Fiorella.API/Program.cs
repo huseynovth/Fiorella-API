@@ -8,6 +8,7 @@ using Fiorella.Aplication.Abstraction.Services;
 using Fiorella.Persistence.Implementations.Repositories;
 using Fiorella.Persistence.Implementations.Services;
 using Fiorella.Persistence;
+using Fiorella.API.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddPresistenceService();
+
+
 //builder.Services.AddFluentValidationAutoValidation();
 //builder.Services.AddFluentValidationClientsideAdapters();
 //builder.Services.AddValidatorsFromAssemblyContaining<CategoryCreateDtoValidator>();   
@@ -28,6 +31,8 @@ builder.Services.AddPresistenceService();
 //builder.Services.AddScoped<ICategoryWriteRepository, CategoryWriteRepository>();
 
 //builder.Services.AddScoped<ICategoryService, CategoryService>();
+
+
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -45,6 +50,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCustomExceptionHandler();
 
 app.UseAuthorization();
 
