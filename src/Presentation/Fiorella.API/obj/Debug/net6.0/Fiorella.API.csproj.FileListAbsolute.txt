@@ -214,7 +214,6 @@ C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\ne
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.AssemblyInfoInputs.cache
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.AssemblyInfo.cs
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.csproj.CoreCompileInputs.cache
-C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\staticwebassets\msbuild.Fiorella.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Fiorella.API.props

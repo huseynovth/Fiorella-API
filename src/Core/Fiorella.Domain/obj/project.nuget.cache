@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ysKkYfrJ5bEMyIke0/hE2f83HOY2yovSEBP9+iG9slAScxey6sYFLVBTD+h9KvPBDGRCs1az9YkU9cDs4qU/1Q==",
+  "dgSpecHash": "5PRhHL+DrZy61khpec1CmpNYns96P9aDjQIlXPvM7QA281EW0j+FCDJYcZqhewCYc316dTuKt/W5fTX8HyJ0Mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\WINDOWS\\Desktop\\Fiorella-API\\src\\Core\\Fiorella.Domain\\Fiorella.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.20\\microsoft.entityframeworkcore.abstractions.6.0.20.nupkg.sha512",
@@ -20,6 +23,7 @@
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\WINDOWS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"

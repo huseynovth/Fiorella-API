@@ -34,7 +34,7 @@ public class ReadRepository<T> : ICategoryReadRepository<T> where T : BaseEntity
         var query = Table.Where(expression).Skip(skip).Take(take).AsQueryable();
         foreach (var include in includes)
         {
-            query.Include(include);
+            query.Include(include); 
         }
         return isTracking ? query : query.AsNoTracking();
     }
