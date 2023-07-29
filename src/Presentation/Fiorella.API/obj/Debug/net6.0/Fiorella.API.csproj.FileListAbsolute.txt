@@ -235,3 +235,4 @@ C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\bin\Debug\ne
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\WINDOWS\Desktop\Fiorella-API\src\Presentation\Fiorella.API\obj\Debug\net6.0\Fiorella.API.MvcApplicationPartsAssemblyInfo.cs
