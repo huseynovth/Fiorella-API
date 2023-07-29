@@ -9,6 +9,8 @@ using Fiorella.Persistence.Implementations.Repositories;
 using Fiorella.Persistence.Implementations.Services;
 using Fiorella.Persistence;
 using Fiorella.API.Middlewares;
+using Fiorella.Domain.Entities;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddPresistenceService();
+
+
 
 
 //builder.Services.AddFluentValidationAutoValidation();
